@@ -1,0 +1,11 @@
+.image-container {
+    display: flex;
+    width: 98%;
+  }
+  
+  img {
+    padding-left: 35px;
+    width: 98%;
+    max-height: 700px;
+    object-fit: cover;
+}
